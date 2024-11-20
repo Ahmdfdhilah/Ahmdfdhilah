@@ -139,27 +139,6 @@
         </tr>
         <tr>
             <td width="50%">
-                <h3 align="center">Physics Department Website</h3>
-                <div align="center">
-                    <p>
-                        Dynamic departmental website with content management.
-                        <br/><br/>
-                        <strong>Key Features:</strong>
-                        <br/>• Custom WordPress theme development
-                        <br/>• Dynamic content management
-                        <br/>• Academic program showcase
-                        <br/>• Research publication integration
-                        <br/>• Event management system
-                        <br/><br/>
-                        <strong>Tech Stack:</strong>
-                        <br/>• CMS: WordPress
-                        <br/>• Backend: PHP, MySQL
-                        <br/>• Frontend: JavaScript, CSS3
-                        <br/>• Tools: ACF Pro, Elementor
-                    </p>
-                </div>
-            </td>
-            <td width="50%">
                 <h3 align="center">Gadget Store System</h3>
                 <div align="center">
                     <p>
