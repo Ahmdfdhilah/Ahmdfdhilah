@@ -115,30 +115,6 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">ITERA MBKM Information System</h3>
-                <div align="center">
-                    <p><i>Private Repository</i></p>
-                    <p>
-                        Comprehensive management system for MBKM program workflow.
-                        <br/><br/>
-                        <strong>Key Features:</strong>
-                        <br/>• Academic recommendation processing
-                        <br/>• Automated approval workflows
-                        <br/>• Monthly progress tracking
-                        <br/>• Document management system
-                        <br/>• Performance analytics dashboard
-                        <br/><br/>
-                        <strong>Tech Stack:</strong>
-                        <br/>• Frontend: React.js, Redux, Tailwind CSS
-                        <br/>• Backend: Pyramid, PostgreSQL
-                        <br/>• API: RESTful architecture
-                        <br/>• Authentication: JWT
-                    </p>
-                </div>
-            </td>
-        </tr>
-        <tr>
-            <td width="50%">
                 <h3 align="center">Gadget Store System</h3>
                 <div align="center">
                     <p>
